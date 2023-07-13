@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [my personal blog](https://mallonge.net/kajtamen)
 
-- 💬 Ask me about **Angular, SQL**
+- 💬 Ask me about **Angular, SQL, .NET, .Net Core, Entity Framework, C#**
 
 - 📫 How to reach me **remusqs1@gmail.com**
 
